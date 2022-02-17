@@ -1,3 +1,5 @@
+## NOTE: All commits were made by sla686, regardless on other names mentioned.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
